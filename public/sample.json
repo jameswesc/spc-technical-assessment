@@ -1,0 +1,6825 @@
+[
+    {
+        "nid": [
+            {
+                "value": 184
+            }
+        ],
+        "uuid": [
+            {
+                "value": "e2903dba-83f5-48c0-a14b-88e04582507d"
+            }
+        ],
+        "vid": [
+            {
+                "value": 485
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:37:10+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 38--2023 : Does the Caledonian tomato have anything to be ashamed of?"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:47+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:37:10+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://pacific-dataviz-challenge-2023.shinyapps.io/pacificdataviz2023/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 449,
+                "alt": "Does the Caledonian tomato have anything to be ashamed of?",
+                "title": "",
+                "width": 791,
+                "height": 459,
+                "target_type": "file",
+                "target_uuid": "faa9e4c9-29cb-4377-aeae-c9bef2a24cd1",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/38_marc_bourotte.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Marc BOUROTTE",
+                "format": "basic_html",
+                "processed": "Marc BOUROTTE"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Does the Caledonian tomato have anything to be ashamed of?</p>",
+                "format": "basic_html",
+                "processed": "<p>Does the Caledonian tomato have anything to be ashamed of?</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 185
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f907d88e-0e4e-4752-863e-43bde8cf3575"
+            }
+        ],
+        "vid": [
+            {
+                "value": 363
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-13T04:18:17+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 39 : Pacific Food Trade"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:47+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-13T04:18:17+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://ubachi.com/feeding-the-pacific/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Mauritius",
+                "format": "basic_html",
+                "processed": "Mauritius"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 450,
+                "alt": "Pacific Food Trade",
+                "title": "",
+                "width": 645,
+                "height": 443,
+                "target_type": "file",
+                "target_uuid": "78a96ae1-228d-40d0-8e18-e8d9601bca46",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/39_emmanuel_ubachi.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "EMMANUEL UBACHI",
+                "format": "basic_html",
+                "processed": "EMMANUEL UBACHI"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [],
+        "field_dataviz_title": [
+            {
+                "value": "Pacific Food Trade",
+                "format": "basic_html",
+                "processed": "Pacific Food Trade"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 183
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f748bcc0-8a4d-406d-8280-301e75b15983"
+            }
+        ],
+        "vid": [
+            {
+                "value": 483
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:36:44+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 37--2023 : 2022 assessment of the Caledonian fruit and vegetable market"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:46+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:36:44+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://dataviz.pacificdata.org/assets/img/2023/static_entries/Poster DataViz challenge 2023 CC.PNG",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 448,
+                "alt": "2022 assessment of the Caledonian fruit and vegetable market",
+                "title": "",
+                "width": 500,
+                "height": 396,
+                "target_type": "file",
+                "target_uuid": "a5b8faff-2208-4650-b927-044ae23b62ee",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/37_caroline_cailleton.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Caroline Cailleton",
+                "format": "basic_html",
+                "processed": "Caroline Cailleton"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": true
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": "unique prize",
+                "format": "basic_html",
+                "processed": "unique prize"
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>2022 assessment of the Caledonian fruit and vegetable market</p>",
+                "format": "basic_html",
+                "processed": "<p>2022 assessment of the Caledonian fruit and vegetable market</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 7,
+                "target_type": "taxonomy_term",
+                "target_uuid": "b942bf5c-5bfe-4c9c-92da-239296916bf6",
+                "url": "/taxonomy/term/7"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 182
+            }
+        ],
+        "uuid": [
+            {
+                "value": "9534c5bb-62c4-46f5-a4e0-1ebb962e843c"
+            }
+        ],
+        "vid": [
+            {
+                "value": 481
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:36:20+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 36--2023 : Pacific Pulse - An Insight Into Food Trade Dynamics"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:45+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:36:20+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://www.canva.com/design/DAFvrpT6KZM/vfSyXItstdj1sZwTBP3k1g/view?website#1:pacific-pulse",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "United States",
+                "format": "basic_html",
+                "processed": "United States"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 447,
+                "alt": "Pacific Pulse - An Insight Into Food Trade Dynamics",
+                "title": "",
+                "width": 747,
+                "height": 731,
+                "target_type": "file",
+                "target_uuid": "22138ebb-5100-401d-9e70-4f5006074af6",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/36_srikar_devulapalli.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Srikar Devulapalli",
+                "format": "basic_html",
+                "processed": "Srikar Devulapalli"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Pacific Pulse - An Insight Into Food Trade Dynamics",
+                "format": "basic_html",
+                "processed": "Pacific Pulse - An Insight Into Food Trade Dynamics"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 181
+            }
+        ],
+        "uuid": [
+            {
+                "value": "8fb98d0b-21b4-434b-9c9a-29eee4ad89f7"
+            }
+        ],
+        "vid": [
+            {
+                "value": 479
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:35:58+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 35--2023 : SOUTH PACIFIC CARBON FOODPRINT"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:44+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:35:58+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://tyvain.github.io/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 446,
+                "alt": "SOUTH PACIFIC CARBON FOODPRINT",
+                "title": "",
+                "width": 426,
+                "height": 741,
+                "target_type": "file",
+                "target_uuid": "23b74aef-af86-40b1-9773-52cd936200a5",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/35_sylvain_auger-leger.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Sylvain Auger-Léger",
+                "format": "basic_html",
+                "processed": "Sylvain Auger-Léger"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "SOUTH PACIFIC CARBON FOODPRINT",
+                "format": "basic_html",
+                "processed": "SOUTH PACIFIC CARBON FOODPRINT"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 180
+            }
+        ],
+        "uuid": [
+            {
+                "value": "5d9e6f13-fd3f-4c7d-8ed0-89519af1d638"
+            }
+        ],
+        "vid": [
+            {
+                "value": 477
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:35:33+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 34--2023 : Pacific Nutritional Facts"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:43+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:35:33+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://public.tableau.com/app/profile/alessiamusio/viz/PacificNutritionFactsPacificDatavizChallenge2023/DietaryEnergyConsuption",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Italy",
+                "format": "basic_html",
+                "processed": "Italy"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 445,
+                "alt": "Pacific Nutritional Facts",
+                "title": "",
+                "width": 795,
+                "height": 737,
+                "target_type": "file",
+                "target_uuid": "df5b00dc-a885-4cf0-b3cf-e5b05c1588d0",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/34_alessia_musio.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Alessia Musìo",
+                "format": "basic_html",
+                "processed": "Alessia Musìo"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Pacific Nutritional Facts",
+                "format": "basic_html",
+                "processed": "Pacific Nutritional Facts"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 178
+            }
+        ],
+        "uuid": [
+            {
+                "value": "42dd6f83-b603-46b9-ac32-3a53dff8315a"
+            }
+        ],
+        "vid": [
+            {
+                "value": 473
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:34:44+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 32--2023 : Fruits and vegetables: The right price, from production to consumption"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:42+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:34:44+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://lookerstudio.google.com/reporting/e2dc4882-255f-4feb-a5ab-0a2940de7e43",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 443,
+                "alt": "Fruits and vegetables: The right price, from production to consumption",
+                "title": "",
+                "width": 1193,
+                "height": 519,
+                "target_type": "file",
+                "target_uuid": "230b9c9d-0c70-4fca-ab01-f0f9316ca4bf",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/32_thomas_poirot.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Thomas Poirot",
+                "format": "basic_html",
+                "processed": "Thomas Poirot"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Fruits and vegetables: The right price, from production to consumption</p>",
+                "format": "basic_html",
+                "processed": "<p>Fruits and vegetables: The right price, from production to consumption</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 179
+            }
+        ],
+        "uuid": [
+            {
+                "value": "15e0455e-bfae-482b-8ca9-d71c116af411"
+            }
+        ],
+        "vid": [
+            {
+                "value": 475
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:35:06+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 33--2023 : Butter and butter money"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:42+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:35:06+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://lebeurrenc.osc-fr1.scalingo.io/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 444,
+                "alt": "Butter and butter money",
+                "title": "",
+                "width": 854,
+                "height": 664,
+                "target_type": "file",
+                "target_uuid": "8320990a-cc8c-4756-8730-52f8bbaa49cd",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/33_antoine_bugeia.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "antoine bugeia",
+                "format": "basic_html",
+                "processed": "antoine bugeia"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Butter and butter money</p>",
+                "format": "basic_html",
+                "processed": "<p>Butter and butter money</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 177
+            }
+        ],
+        "uuid": [
+            {
+                "value": "0f594b11-eebd-407a-9bc3-7a77918e04d3"
+            }
+        ],
+        "vid": [
+            {
+                "value": 471
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:34:17+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 31--2023 : Evolution of average prices of frozen chicken drumsticks (from 2013 to 2023)"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:34:17+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://dataviz.pacificdata.org/assets/img/2023/static_entries/Sandro et Morgane - Evolution prix pilons de poulet sur 10 ans.jpg",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 442,
+                "alt": "Evolution of average prices of frozen chicken drumsticks (from 2013 to 2023)",
+                "title": "",
+                "width": 1000,
+                "height": 768,
+                "target_type": "file",
+                "target_uuid": "1df25e42-b40d-4ace-8684-9dda58830600",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/31_sandro_fraschini%2C_morgane_miliani.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Sandro FRASCHINI, Morgane Miliani",
+                "format": "basic_html",
+                "processed": "Sandro FRASCHINI, Morgane Miliani"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Evolution of average prices of frozen chicken drumsticks (from 2013 to 2023)</p>",
+                "format": "basic_html",
+                "processed": "<p>Evolution of average prices of frozen chicken drumsticks (from 2013 to 2023)</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 7,
+                "target_type": "taxonomy_term",
+                "target_uuid": "b942bf5c-5bfe-4c9c-92da-239296916bf6",
+                "url": "/taxonomy/term/7"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 176
+            }
+        ],
+        "uuid": [
+            {
+                "value": "8d4a9aec-8912-4a87-b0a1-a81417ab2aed"
+            }
+        ],
+        "vid": [
+            {
+                "value": 469
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:33:52+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 30--2023 : Price evolution in NC with nutritional information"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:40+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:33:52+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://lookerstudio.google.com/reporting/8a80a36e-03d2-4669-b953-782ee9cdfa4e",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 441,
+                "alt": "Price evolution in NC with nutritional information",
+                "title": "",
+                "width": 718,
+                "height": 496,
+                "target_type": "file",
+                "target_uuid": "d6ebad52-6cd1-4dc4-98ce-727b9acfe1c4",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/30_jean-philippe_guilloux.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Jean-Philippe GUILLOUX",
+                "format": "basic_html",
+                "processed": "Jean-Philippe GUILLOUX"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Price evolution in NC with nutritional information</p>",
+                "format": "basic_html",
+                "processed": "<p>Price evolution in NC with nutritional information</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 175
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f7487039-744b-4f5e-9598-2ebd005f1f67"
+            }
+        ],
+        "vid": [
+            {
+                "value": 467
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:33:29+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 29--2023 : Data for resilient food systems in the Pacific Island Countries and Territories"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:39+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:33:29+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://foodpolicydata.my.canva.site/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Zealand",
+                "format": "basic_html",
+                "processed": "New Zealand"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 439,
+                "alt": "Data for resilient food systems in the Pacific Island Countries and Territories",
+                "title": "",
+                "width": 1235,
+                "height": 707,
+                "target_type": "file",
+                "target_uuid": "f47c4c9d-0e07-4fe7-840f-a7968a8f1d6a",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/29_silvina_pugliese.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Silvina Pugliese",
+                "format": "basic_html",
+                "processed": "Silvina Pugliese"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Data for resilient food systems in the Pacific Island Countries and Territories",
+                "format": "basic_html",
+                "processed": "Data for resilient food systems in the Pacific Island Countries and Territories"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 174
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d2f4f3d8-7c55-4880-820d-8e22aa7eedd9"
+            }
+        ],
+        "vid": [
+            {
+                "value": 465
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:33:01+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 28--2023 : New Caledonia's Vegetables and Fruits Market Tracker"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:38+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:33:01+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://pacific-dataviz.vercel.app/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "France",
+                "format": "basic_html",
+                "processed": "France"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 438,
+                "alt": "New Caledonia's Vegetables and Fruits Market Tracker",
+                "title": "",
+                "width": 680,
+                "height": 612,
+                "target_type": "file",
+                "target_uuid": "61ad9118-7ff7-4d9f-9d6f-a0c7d9b0b41c",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/28_mengying_du.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Mengying DU",
+                "format": "basic_html",
+                "processed": "Mengying DU"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "New Caledonia's Vegetables and Fruits Market Tracker",
+                "format": "basic_html",
+                "processed": "New Caledonia's Vegetables and Fruits Market Tracker"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 172
+            }
+        ],
+        "uuid": [
+            {
+                "value": "fd3540c7-2a4c-4bfb-b78b-54ff3d52ee3d"
+            }
+        ],
+        "vid": [
+            {
+                "value": 461
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:32:08+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 26--2023 : Food trade seen through bubbles"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:37+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:32:08+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://sebastian-graeff.github.io/pacificdataviz.github.io/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Netherlands",
+                "format": "basic_html",
+                "processed": "Netherlands"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 436,
+                "alt": "Food trade seen through bubbles",
+                "title": "",
+                "width": 1331,
+                "height": 725,
+                "target_type": "file",
+                "target_uuid": "b7d202b5-207c-408e-af09-b9c3f8104994",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/26_sebastian_graeff.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Sebastian Graeff",
+                "format": "basic_html",
+                "processed": "Sebastian Graeff"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Food trade seen through bubbles",
+                "format": "basic_html",
+                "processed": "Food trade seen through bubbles"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 173
+            }
+        ],
+        "uuid": [
+            {
+                "value": "049481c0-2d5d-4199-8df2-9aa1de1c7152"
+            }
+        ],
+        "vid": [
+            {
+                "value": 463
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:32:36+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 27--2023 : Consequences of Cyclone Cook on banana crops in New Caledonia"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:37+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:32:36+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://experience.arcgis.com/experience/db89a0bbb6ab4d8d89a2076c2c0e47e3/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "France",
+                "format": "basic_html",
+                "processed": "France"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 437,
+                "alt": "Consequences of Cyclone Cook on banana crops in New Caledonia",
+                "title": "",
+                "width": 1315,
+                "height": 547,
+                "target_type": "file",
+                "target_uuid": "5f0d228a-9b57-4333-902a-09f1a6761464",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/27_eliott_libner.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Eliott Libner",
+                "format": "basic_html",
+                "processed": "Eliott Libner"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Consequences of Cyclone Cook on banana crops in New Caledonia</p>",
+                "format": "basic_html",
+                "processed": "<p>Consequences of Cyclone Cook on banana crops in New Caledonia</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 171
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f1e18c52-a504-44f8-81bf-99b8c45fc5c3"
+            }
+        ],
+        "vid": [
+            {
+                "value": 459
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:31:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 25--2023 : The local Caledonian fruit and vegetable market"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:36+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:31:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://caroline-cailleton.shinyapps.io/dataviz_challenge_2023_cc/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 435,
+                "alt": "The local Caledonian fruit and vegetable market",
+                "title": "",
+                "width": 1652,
+                "height": 598,
+                "target_type": "file",
+                "target_uuid": "c9a93b24-ef7b-4dc1-9f30-e7c95b865d76",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/25_caroline_cailleton.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Caroline Cailleton",
+                "format": "basic_html",
+                "processed": "Caroline Cailleton"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>The local Caledonian fruit and vegetable market</p>",
+                "format": "basic_html",
+                "processed": "<p>The local Caledonian fruit and vegetable market</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 170
+            }
+        ],
+        "uuid": [
+            {
+                "value": "8da5fe1e-f985-481b-8ece-6e21b942c613"
+            }
+        ],
+        "vid": [
+            {
+                "value": 457
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:31:16+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 24--2023 : EatYourPlate!"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:35+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:31:16+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://pacificdataviz.element.nc/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 434,
+                "alt": "EatYourPlate!",
+                "title": "",
+                "width": 1169,
+                "height": 412,
+                "target_type": "file",
+                "target_uuid": "5df7f865-3fcf-4323-8c11-f06a2751588e",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/24_laurent_degen%2C_emmanuel_chanson.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Laurent DEGEN, Emmanuel CHANSON",
+                "format": "basic_html",
+                "processed": "Laurent DEGEN, Emmanuel CHANSON"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>EatYourPlate!</p>",
+                "format": "basic_html",
+                "processed": "<p>EatYourPlate!</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 169
+            }
+        ],
+        "uuid": [
+            {
+                "value": "b97383fe-d096-4f31-8cce-a8a58180ea21"
+            }
+        ],
+        "vid": [
+            {
+                "value": 455
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:30:47+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 23--2023 : Seafood exports from Oceania from 1995 to 2018"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:34+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:30:47+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://dataviz.pacificdata.org/assets/img/2023/static_entries/PDC FOOD FISH OCE final.pdf",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 433,
+                "alt": "Seafood exports from Oceania from 1995 to 2018",
+                "title": "",
+                "width": 1163,
+                "height": 614,
+                "target_type": "file",
+                "target_uuid": "1e6c033c-8176-45d5-9b66-31fbd7c95405",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/23_celine_perez.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Céline PEREZ",
+                "format": "basic_html",
+                "processed": "Céline PEREZ"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Seafood exports from Oceania from 1995 to 2018</p>",
+                "format": "basic_html",
+                "processed": "<p>Seafood exports from Oceania from 1995 to 2018</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 7,
+                "target_type": "taxonomy_term",
+                "target_uuid": "b942bf5c-5bfe-4c9c-92da-239296916bf6",
+                "url": "/taxonomy/term/7"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 168
+            }
+        ],
+        "uuid": [
+            {
+                "value": "005d5d8b-6eff-4826-89e7-cc912c7f443c"
+            }
+        ],
+        "vid": [
+            {
+                "value": 453
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:30:25+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 22--2023 : The evolution of local production and wholesale market sales: what impact for the end consumer?"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:33+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:30:25+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiYmUyZGUyNmItYTQ0OC00ZTA5LTlkZmMtZmY5MjJmODEzMDVmIiwidCI6ImUwYTI3MjY4LWVlNDAtNGU4Yy05OTJhLTk3OTk1MTEzNTAyYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection658f6445b38c19e482bd",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 432,
+                "alt": "The evolution of local production and wholesale market sales: what impact for the end consumer?",
+                "title": "",
+                "width": 745,
+                "height": 547,
+                "target_type": "file",
+                "target_uuid": "233baa6f-9bdb-4a6b-91e5-344a4878ffd1",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/22_guillaume_deschamps%2C_sylvain_thibon.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Guillaume Deschamps, Sylvain Thibon",
+                "format": "basic_html",
+                "processed": "Guillaume Deschamps, Sylvain Thibon"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>The evolution of local production and wholesale market sales: what impact for the end consumer?</p>",
+                "format": "basic_html",
+                "processed": "<p>The evolution of local production and wholesale market sales: what impact for the end consumer?</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 166
+            }
+        ],
+        "uuid": [
+            {
+                "value": "9f8b7dae-abff-413a-a04d-6ddb8b93e89e"
+            }
+        ],
+        "vid": [
+            {
+                "value": 449
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:29:05+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 20--2023 : Flavors of competition"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:32+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:29:05+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://public.tableau.com/app/profile/the.rabbitkeeper5225/viz/Project651561561/Tableaudebord2?publish=yes",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "France",
+                "format": "basic_html",
+                "processed": "France"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 430,
+                "alt": "Flavors of competition",
+                "title": "",
+                "width": 641,
+                "height": 464,
+                "target_type": "file",
+                "target_uuid": "980f0ab0-7fee-4fb7-810f-d7d154775068",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/20_kevin-tristan_picanon.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Kevin-Tristan Picanon",
+                "format": "basic_html",
+                "processed": "Kevin-Tristan Picanon"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Flavors of competition</p>",
+                "format": "basic_html",
+                "processed": "<p>Flavors of competition</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 167
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f9ae2572-10ef-4325-985d-a60337d58e7f"
+            }
+        ],
+        "vid": [
+            {
+                "value": 493
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-21T23:41:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 21--2023 : Carbs on the Coast"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:32+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-21T23:41:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://public.tableau.com/app/profile/qingyue.li8346/viz/CarbsontheCoast/Dashboard2",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "United States",
+                "format": "basic_html",
+                "processed": "United States"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 431,
+                "alt": "Carbs on the Coast",
+                "title": "",
+                "width": 421,
+                "height": 377,
+                "target_type": "file",
+                "target_uuid": "76ddf277-87be-4e01-821f-8a21bdf30f8c",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/21_qingyue_li.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Qingyue Li",
+                "format": "basic_html",
+                "processed": "Qingyue Li"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": true
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": "2nd prize",
+                "format": "basic_html",
+                "processed": "2nd prize"
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Carbs on the Coast",
+                "format": "basic_html",
+                "processed": "Carbs on the Coast"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 165
+            }
+        ],
+        "uuid": [
+            {
+                "value": "13267c20-9249-4e48-97ff-14a32cdafa74"
+            }
+        ],
+        "vid": [
+            {
+                "value": 447
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:28:38+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 19--2023 : Pacific Food Trade Dashboard"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:31+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:28:38+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://lookerstudio.google.com/reporting/bca343bd-b66a-47d0-9e67-ca1831a641e7",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "United Arab Emirates",
+                "format": "basic_html",
+                "processed": "United Arab Emirates"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 428,
+                "alt": "Pacific Food Trade Dashboard",
+                "title": "",
+                "width": 1223,
+                "height": 708,
+                "target_type": "file",
+                "target_uuid": "04f36389-18a7-41b4-98e4-1bcbb51640cf",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/19_mary_shana_thankam%2C_roshan_cyriac_mathew.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Mary Shana Thankam, Roshan Cyriac Mathew",
+                "format": "basic_html",
+                "processed": "Mary Shana Thankam, Roshan Cyriac Mathew"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Pacific Food Trade Dashboard",
+                "format": "basic_html",
+                "processed": "Pacific Food Trade Dashboard"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 164
+            }
+        ],
+        "uuid": [
+            {
+                "value": "028c86d7-2d91-4789-86bd-f3c29d0f7228"
+            }
+        ],
+        "vid": [
+            {
+                "value": 445
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:28:04+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 18--2023 : Food is good"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:30+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:28:04+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiMTk2MDA1YzctNDdlNS00ODIzLWJmMTItOGVlZjkzOWVmNTFiIiwidCI6IjA3N2I3NjZiLTYxZjAtNGU3Yy05MzczLTkyODgzMmFhOWZlZiIsImMiOjh9",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Spain",
+                "format": "basic_html",
+                "processed": "Spain"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 427,
+                "alt": "Food is good",
+                "title": "",
+                "width": 1418,
+                "height": 871,
+                "target_type": "file",
+                "target_uuid": "9a843bb4-8072-4637-ac4f-7937b35299e5",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/18_eva_omedes_domene.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Eva Omedes Domene",
+                "format": "basic_html",
+                "processed": "Eva Omedes Domene"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Food is good",
+                "format": "basic_html",
+                "processed": "Food is good"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 163
+            }
+        ],
+        "uuid": [
+            {
+                "value": "5003d4c6-7248-4806-9d5d-e74165cb34a6"
+            }
+        ],
+        "vid": [
+            {
+                "value": 443
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:20:00+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 17--2023 : History of food export"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:29+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:20:00+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiMzFmNzg1YWEtY2UyMy00N2I0LThkY2MtNjczMGMxOTc1NGMyIiwidCI6IjZlZWVhZjNlLTY3MTItNDhhNC05NzY3LTNmY2E1NGUxMTc1YyIsImMiOjl9",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "United Kingdom",
+                "format": "basic_html",
+                "processed": "United Kingdom"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 426,
+                "alt": "History of food export",
+                "title": "",
+                "width": 1133,
+                "height": 632,
+                "target_type": "file",
+                "target_uuid": "de3b33dc-fbfe-4414-b197-1fa9c37060e2",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/17_botagoz_akbolina.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Botagoz Akbolina",
+                "format": "basic_html",
+                "processed": "Botagoz Akbolina"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "History of food export",
+                "format": "basic_html",
+                "processed": "History of food export"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 161
+            }
+        ],
+        "uuid": [
+            {
+                "value": "d45c476d-30b5-4947-a795-1b8d7f4c20f7"
+            }
+        ],
+        "vid": [
+            {
+                "value": 439
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:19:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 15--2023 : FOOD SEASON"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:28+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:19:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://choosefoodnc.dorik.io/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 424,
+                "alt": "FOOD SEASON",
+                "title": "",
+                "width": 1141,
+                "height": 746,
+                "target_type": "file",
+                "target_uuid": "8a2e3212-086d-4a6f-b315-0a39b291b8ba",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/15_arnaud_la_forge.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Arnaud LA FORGE",
+                "format": "basic_html",
+                "processed": "Arnaud LA FORGE"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "FOOD SEASON",
+                "format": "basic_html",
+                "processed": "FOOD SEASON"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 162
+            }
+        ],
+        "uuid": [
+            {
+                "value": "4eab786e-d15a-4673-a3bc-8274e9ded5f5"
+            }
+        ],
+        "vid": [
+            {
+                "value": 441
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:19:32+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 16--2023 : Evolution of local production VS imports of fruits and vegetables in NC (2012-2018)"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:28+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:19:32+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://pacificdatavizchallenge2023-996ghbv8uopr2akcqtiexs.streamlit.app/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 425,
+                "alt": "Evolution of local production VS imports of fruits and vegetables in NC (2012-2018)",
+                "title": "",
+                "width": 618,
+                "height": 436,
+                "target_type": "file",
+                "target_uuid": "cef8752c-d71e-4ff7-8a5f-e458f6fb995f",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/16_andy_malo%2C_cyril_barbe%2C_thomas_avron%2C_stoyan_velten.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Andy MALO, Cyril Barbe, Thomas Avron, Stoyan Velten",
+                "format": "basic_html",
+                "processed": "Andy MALO, Cyril Barbe, Thomas Avron, Stoyan Velten"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Evolution of local production VS imports of fruits and vegetables in NC (2012-2018)</p>",
+                "format": "basic_html",
+                "processed": "<p>Evolution of local production VS imports of fruits and vegetables in NC (2012-2018)</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 160
+            }
+        ],
+        "uuid": [
+            {
+                "value": "2a041cfa-a50d-4a11-b886-3e5526bf1d57"
+            }
+        ],
+        "vid": [
+            {
+                "value": 437
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:18:45+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 14--2023 : Daily Calorie Intake Per Person in Solomon Islands, Kiribati, and Vanuatu"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:27+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:18:45+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://www.isinkosemen.com/pacific_dataviz_challenge_2023.html",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Turkey",
+                "format": "basic_html",
+                "processed": "Turkey"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 423,
+                "alt": "Daily Calorie Intake Per Person in Solomon Islands, Kiribati, and Vanuatu",
+                "title": "",
+                "width": 776,
+                "height": 341,
+                "target_type": "file",
+                "target_uuid": "3355399f-721a-4d1d-b3f2-ccfa3f484afd",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/14_isin_kosemen.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Isin Kosemen",
+                "format": "basic_html",
+                "processed": "Isin Kosemen"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Daily Calorie Intake Per Person in Solomon Islands, Kiribati, and Vanuatu",
+                "format": "basic_html",
+                "processed": "Daily Calorie Intake Per Person in Solomon Islands, Kiribati, and Vanuatu"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 159
+            }
+        ],
+        "uuid": [
+            {
+                "value": "558564b3-0ff6-450f-b533-cc98148bbf7c"
+            }
+        ],
+        "vid": [
+            {
+                "value": 435
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:18:21+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 13--2023 : Overview and characterization of food issues in the Pacific islands"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:26+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:18:21+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://dataviz.pacificdata.org/assets/img/2023/static_entries/nan",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 422,
+                "alt": "Overview and characterization of food issues in the Pacific islands",
+                "title": "",
+                "width": 1288,
+                "height": 509,
+                "target_type": "file",
+                "target_uuid": "bf5fdf6b-b2bd-4b5b-8360-c6f2ad94b9db",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/13_sylvain_clerc.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Sylvain CLERC",
+                "format": "basic_html",
+                "processed": "Sylvain CLERC"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Overview and characterization of food issues in the Pacific islands</p>",
+                "format": "basic_html",
+                "processed": "<p>Overview and characterization of food issues in the Pacific islands</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 7,
+                "target_type": "taxonomy_term",
+                "target_uuid": "b942bf5c-5bfe-4c9c-92da-239296916bf6",
+                "url": "/taxonomy/term/7"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 158
+            }
+        ],
+        "uuid": [
+            {
+                "value": "7c8528f5-516c-4374-b1af-0f19f14f3877"
+            }
+        ],
+        "vid": [
+            {
+                "value": 433
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:17:55+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 12--2023 : Sailing Through Time: Pacific Food Trade in One Glance"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:25+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:17:55+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://public.tableau.com/app/profile/harim.jung/viz/HarimPacificGOOD/PacificDataVizPacificFoodTradeSailing",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Canada",
+                "format": "basic_html",
+                "processed": "Canada"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 421,
+                "alt": "Sailing Through Time: Pacific Food Trade in One Glance",
+                "title": "",
+                "width": 820,
+                "height": 936,
+                "target_type": "file",
+                "target_uuid": "b0296d72-e3f1-433e-9dcc-1f25d7ff5ee9",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/12_harim_jung.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Harim Jung",
+                "format": "basic_html",
+                "processed": "Harim Jung"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Sailing Through Time: Pacific Food Trade in One Glance",
+                "format": "basic_html",
+                "processed": "Sailing Through Time: Pacific Food Trade in One Glance"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 157
+            }
+        ],
+        "uuid": [
+            {
+                "value": "bdb3fdd2-8fca-45f4-8d13-046c5e46be7b"
+            }
+        ],
+        "vid": [
+            {
+                "value": 431
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:17:26+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 11--2023 : Purchasing power"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:24+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:17:26+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://pacific-dataviz-challenge-fpf86a7rzb4t88dyghywm3.streamlit.app/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 420,
+                "alt": "Purchasing power",
+                "title": "",
+                "width": 1055,
+                "height": 526,
+                "target_type": "file",
+                "target_uuid": "1fbe4ded-14bf-4b34-975e-9b1ff0a25bfd",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/11_ugo_piqueras.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Ugo Piqueras",
+                "format": "basic_html",
+                "processed": "Ugo Piqueras"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Purchasing power</p>",
+                "format": "basic_html",
+                "processed": "<p>Purchasing power</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 156
+            }
+        ],
+        "uuid": [
+            {
+                "value": "7c4ae024-a60c-417f-be81-c6f637653670"
+            }
+        ],
+        "vid": [
+            {
+                "value": 429
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:17:04+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 10--2023 : Local production, import and price of fruits and vegetables in New Caledonia"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:23+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:17:04+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiZmJjMzMzODgtNjAyNS00NDBlLTg4YzMtOGFlMGJhNjUyMmNlIiwidCI6IjE0ZGQzN2U2LTc5MTAtNDM0Yy1hMDA4LWNmNDEyOTA5NmNkZCJ9",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "France",
+                "format": "basic_html",
+                "processed": "France"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 419,
+                "alt": "Local production, import and price of fruits and vegetables in New Caledonia",
+                "title": "",
+                "width": 1065,
+                "height": 544,
+                "target_type": "file",
+                "target_uuid": "42dff0e7-9c48-4b57-930d-729d93294577",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/10_adrien_anciot.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Adrien Anciot",
+                "format": "basic_html",
+                "processed": "Adrien Anciot"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Local production, import and price of fruits and vegetables in New Caledonia</p>",
+                "format": "basic_html",
+                "processed": "<p>Local production, import and price of fruits and vegetables in New Caledonia</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 154
+            }
+        ],
+        "uuid": [
+            {
+                "value": "953eda61-397a-4687-a248-1c61cd2f6fd5"
+            }
+        ],
+        "vid": [
+            {
+                "value": 494
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-21T23:42:19+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 8--2023 : Inflation, a health risk in New Caledonia"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:22+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-21T23:42:19+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiNzMzZTNhY2QtMzVmMC00MmIxLWE5MWYtM2U1Y2FiNWUxOWI5IiwidCI6ImVmODY2Y2IzLTVlZDktNDkwYy1hNzYxLTkwYzNkZGFlZTY0ZSIsImMiOjh9&pageName=ReportSection0810aec87a32558cd088",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "France",
+                "format": "basic_html",
+                "processed": "France"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 456,
+                "alt": "Inflation, a health risk in New Caledonia",
+                "title": "",
+                "width": 1011,
+                "height": 623,
+                "target_type": "file",
+                "target_uuid": "5725a534-5815-4a65-8456-3ad532b10a8e",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/8_julien_ayral%2C_myriam_maiza%2C_ambre_mimouni%2C_manon_hillou.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Julien AYRAL, Myriam MAÏZA, Ambre MIMOUNI, Manon HILLOU",
+                "format": "basic_html",
+                "processed": "Julien AYRAL, Myriam MAÏZA, Ambre MIMOUNI, Manon HILLOU"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": true
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": "3rd prize",
+                "format": "basic_html",
+                "processed": "3rd prize"
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Inflation, a health risk in New Caledonia</p>",
+                "format": "basic_html",
+                "processed": "<p>Inflation, a health risk in New Caledonia</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 155
+            }
+        ],
+        "uuid": [
+            {
+                "value": "3a30abe5-01d0-46a8-8fd9-735409950bfe"
+            }
+        ],
+        "vid": [
+            {
+                "value": 427
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:16:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 9--2023 : Promotions on food products in New Caledonia. A real gain for the consumer?"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:22+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:16:41+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiMTY4NzNhOGMtNDlmZi00YjQyLWI5YjctOWFmMzgyNzE0Y2E2IiwidCI6IjE0ZGQzN2U2LTc5MTAtNDM0Yy1hMDA4LWNmNDEyOTA5NmNkZCJ9",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 457,
+                "alt": "Promotions on food products in New Caledonia. A real gain for the consumer?",
+                "title": "",
+                "width": 1484,
+                "height": 835,
+                "target_type": "file",
+                "target_uuid": "9df7c68f-dec9-4fd5-89cd-d07779a32f08",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/9_hugo_durbano.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Hugo DURBANO",
+                "format": "basic_html",
+                "processed": "Hugo DURBANO"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Promotions on food products in New Caledonia. A real gain for the consumer?</p>",
+                "format": "basic_html",
+                "processed": "<p>Promotions on food products in New Caledonia. A real gain for the consumer?</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 153
+            }
+        ],
+        "uuid": [
+            {
+                "value": "6eace1da-bafc-4d8c-961a-6fa2bb6d1a1a"
+            }
+        ],
+        "vid": [
+            {
+                "value": 423
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:15:26+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 7--2023 : Evolution of Food Prices in New Caledonia Since 2019"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:21+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:15:26+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiOGNlNGUwNjYtYzcyMC00Zjg0LTg0MjctMTQwNjdmMDliMTA2IiwidCI6IjI5OTQ0MmJjLTY5ZmQtNDE4My1hMWRlLTJjZTFiYjIxYTFhNSJ9&embedImagePlaceholder=true&pageName=ReportSection",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 455,
+                "alt": "Evolution of Food Prices in New Caledonia Since 2019",
+                "title": "",
+                "width": 1626,
+                "height": 894,
+                "target_type": "file",
+                "target_uuid": "d0b81962-d054-48dd-acaa-1061ed7ee361",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/7_marc_olivier_bouan.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Marc Olivier Bouan",
+                "format": "basic_html",
+                "processed": "Marc Olivier Bouan"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Evolution of Food Prices in New Caledonia Since 2019</p>",
+                "format": "basic_html",
+                "processed": "<p>Evolution of Food Prices in New Caledonia Since 2019</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 152
+            }
+        ],
+        "uuid": [
+            {
+                "value": "1e04fe20-7fee-4d5e-8ded-dabc5728e4a1"
+            }
+        ],
+        "vid": [
+            {
+                "value": 421
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:15:01+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 6--2023 : Pacific Food--2023"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:20+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:15:01+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [
+            {
+                "value": true
+            }
+        ],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://www.pacificdatavizchallenge2023.live/pacific-food-trade/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Papua New Guinea",
+                "format": "basic_html",
+                "processed": "Papua New Guinea"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 454,
+                "alt": "Pacific Food",
+                "title": "",
+                "width": 473,
+                "height": 438,
+                "target_type": "file",
+                "target_uuid": "240ef616-7bed-4b43-ac41-93a168624c94",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/6_charlie_vulum.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Charlie Vulum",
+                "format": "basic_html",
+                "processed": "Charlie Vulum"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Pacific Food",
+                "format": "basic_html",
+                "processed": "Pacific Food"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 151
+            }
+        ],
+        "uuid": [
+            {
+                "value": "f65e6983-a46c-4bce-814b-a826982de5c5"
+            }
+        ],
+        "vid": [
+            {
+                "value": 492
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-21T22:33:51+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 5--2023 : Food In Paradise"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:19+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-21T22:33:51+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://app.powerbi.com/view?r=eyJrIjoiNmYzYmE2MGItZWRlOS00MGQwLWI4ZjEtYTJhOWM0ZTNiOGJhIiwidCI6IjA3N2I3NjZiLTYxZjAtNGU3Yy05MzczLTkyODgzMmFhOWZlZiIsImMiOjh9",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "Spain",
+                "format": "basic_html",
+                "processed": "Spain"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 453,
+                "alt": "Food In Paradise",
+                "title": "",
+                "width": 1553,
+                "height": 827,
+                "target_type": "file",
+                "target_uuid": "f2615d21-a7ba-4b61-8e6c-d08659290f85",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/5_ricardo_tranquilli_navarro.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Ricardo Tranquilli Navarro",
+                "format": "basic_html",
+                "processed": "Ricardo Tranquilli Navarro"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": true
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": "1st prize",
+                "format": "basic_html",
+                "processed": "1st prize"
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Food In Paradise",
+                "format": "basic_html",
+                "processed": "Food In Paradise"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 150
+            }
+        ],
+        "uuid": [
+            {
+                "value": "cb7e0622-423a-4e19-9bcb-af9d457dd768"
+            }
+        ],
+        "vid": [
+            {
+                "value": 416
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:13:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 4--2023 : Food prices and fruit and vegetable markets in New Caledonia"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:18+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:13:09+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://pacificdatavizchallenges-tchek.streamlit.app/",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "France",
+                "format": "basic_html",
+                "processed": "France"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 452,
+                "alt": "Food prices and fruit and vegetable markets in New Caledonia",
+                "title": "",
+                "width": 689,
+                "height": 557,
+                "target_type": "file",
+                "target_uuid": "652dcb0c-2b53-48ec-bdcb-c16f0db94e30",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/4_brunel_tchekeli.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "BRUNEL TCHEKELI",
+                "format": "basic_html",
+                "processed": "BRUNEL TCHEKELI"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>Food prices and fruit and vegetable markets in New Caledonia</p>",
+                "format": "basic_html",
+                "processed": "<p>Food prices and fruit and vegetable markets in New Caledonia</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 149
+            }
+        ],
+        "uuid": [
+            {
+                "value": "df015674-9df0-44f1-9435-de7838379b66"
+            }
+        ],
+        "vid": [
+            {
+                "value": 414
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:12:39+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 3--2023 : Median prize evolution from 2014"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:17+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:12:39+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://youtu.be/bmT7cioT1Qs?si=kXvlLYqRtLvGV05H",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 451,
+                "alt": "Median prize evolution from 2014",
+                "title": "",
+                "width": 1272,
+                "height": 572,
+                "target_type": "file",
+                "target_uuid": "976e8913-0875-44cd-9a01-9c9f1cbdb2ba",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/3_adrien_sales.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Adrien SALES",
+                "format": "basic_html",
+                "processed": "Adrien SALES"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "Median prize evolution from 2014",
+                "format": "basic_html",
+                "processed": "Median prize evolution from 2014"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 6,
+                "target_type": "taxonomy_term",
+                "target_uuid": "4c329d67-bfc6-44ce-8cd5-c66d2fb00b81",
+                "url": "/taxonomy/term/6"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 148
+            }
+        ],
+        "uuid": [
+            {
+                "value": "7cc3a878-47dd-484d-9575-43e03079f38e"
+            }
+        ],
+        "vid": [
+            {
+                "value": 412
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:11:40+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 2--2023 : The rise of butter price at Nouméa"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:16+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:11:40+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://dataviz.pacificdata.org/assets/img/2023/static_entries/A dataviz about inflation impact on food in New-Caledonia.png",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 440,
+                "alt": "The rise of butter price at Nouméa",
+                "title": "",
+                "width": 1080,
+                "height": 1920,
+                "target_type": "file",
+                "target_uuid": "be57602d-c213-400c-a69a-9dae9f2a0f4f",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/2_adrien_sales.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Adrien SALES",
+                "format": "basic_html",
+                "processed": "Adrien SALES"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "The rise of butter price at Nouméa",
+                "format": "basic_html",
+                "processed": "The rise of butter price at Nouméa"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 7,
+                "target_type": "taxonomy_term",
+                "target_uuid": "b942bf5c-5bfe-4c9c-92da-239296916bf6",
+                "url": "/taxonomy/term/7"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    },
+    {
+        "nid": [
+            {
+                "value": 147
+            }
+        ],
+        "uuid": [
+            {
+                "value": "bf2ef0f3-9cef-4308-bc32-8c0df30d952c"
+            }
+        ],
+        "vid": [
+            {
+                "value": 410
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ],
+        "type": [
+            {
+                "target_id": "dataviz",
+                "target_type": "node_type",
+                "target_uuid": "ef7340f3-9168-41f2-9045-e1538cf3644f"
+            }
+        ],
+        "revision_timestamp": [
+            {
+                "value": "2023-12-20T00:11:14+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "revision_uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "revision_log": [],
+        "status": [
+            {
+                "value": true
+            }
+        ],
+        "uid": [
+            {
+                "target_id": 1,
+                "target_type": "user",
+                "target_uuid": "8fc77788-2e18-42ab-ae81-e8ee47331b64",
+                "url": "/user/1"
+            }
+        ],
+        "title": [
+            {
+                "value": "Dataviz 1--2023 : What do New Caledonia's market gardeners produce?"
+            }
+        ],
+        "created": [
+            {
+                "value": "2023-12-10T23:48:15+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "changed": [
+            {
+                "value": "2023-12-20T00:11:14+00:00",
+                "format": "Y-m-d\\TH:i:sP"
+            }
+        ],
+        "promote": [
+            {
+                "value": true
+            }
+        ],
+        "sticky": [
+            {
+                "value": false
+            }
+        ],
+        "default_langcode": [
+            {
+                "value": true
+            }
+        ],
+        "revision_translation_affected": [],
+        "path": [
+            {
+                "alias": null,
+                "pid": null,
+                "langcode": "en"
+            }
+        ],
+        "content_translation_source": [
+            {
+                "value": "und"
+            }
+        ],
+        "content_translation_outdated": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_button": [
+            {
+                "uri": "https://dataviz.pacificdata.org/assets/img/2023/static_entries/Que.produisent.les.maraichers.en.Nouvelle.Caledonie.data2022.png",
+                "title": "View Dataviz",
+                "options": []
+            }
+        ],
+        "field_dataviz_country": [
+            {
+                "value": "New Caledonia",
+                "format": "basic_html",
+                "processed": "New Caledonia"
+            }
+        ],
+        "field_dataviz_img": [
+            {
+                "target_id": 429,
+                "alt": "What do New Caledonia's market gardeners produce",
+                "title": "",
+                "width": 640,
+                "height": 612,
+                "target_type": "file",
+                "target_uuid": "77d5a719-edfa-40c5-8d4d-d1293f817f17",
+                "url": "https://phpstack-454602-4173726.cloudwaysapps.com/sites/default/files/2023-12/1_vincent_lavergne.png"
+            }
+        ],
+        "field_dataviz_owner": [
+            {
+                "value": "Vincent Lavergne",
+                "format": "basic_html",
+                "processed": "Vincent Lavergne"
+            }
+        ],
+        "field_dataviz_prize": [
+            {
+                "value": false
+            }
+        ],
+        "field_dataviz_rankedprize": [
+            {
+                "value": " ",
+                "format": "basic_html",
+                "processed": ""
+            }
+        ],
+        "field_dataviz_title": [
+            {
+                "value": "<p>What do New Caledonia's market gardeners produce?</p>",
+                "format": "basic_html",
+                "processed": "<p>What do New Caledonia's market gardeners produce?</p>"
+            }
+        ],
+        "field_dataviz_type": [
+            {
+                "target_id": 7,
+                "target_type": "taxonomy_term",
+                "target_uuid": "b942bf5c-5bfe-4c9c-92da-239296916bf6",
+                "url": "/taxonomy/term/7"
+            }
+        ],
+        "field_dataviz_year": [
+            {
+                "target_id": 2,
+                "target_type": "taxonomy_term",
+                "target_uuid": "65a5c8b5-0fe6-4b43-bb1a-067b9fe01c65",
+                "url": "/taxonomy/term/2"
+            }
+        ]
+    }
+]
