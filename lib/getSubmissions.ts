@@ -72,9 +72,11 @@ const submissionSchema = z
     // Transform by removing arrays and renaming fields
     .transform((submission) => ({
         uuid: submission.uuid[0].value,
-        title: submission.title[0].value,
+        title: submission.title[0].value
+            .replace(/^Dataviz \d+(--\d+)? : /g, '')
+            .toLowerCase(),
         img: submission.field_dataviz_img[0],
-        owner: submission.field_dataviz_owner[0].value,
+        owner: submission.field_dataviz_owner[0].value.toLowerCase(),
         country: submission.field_dataviz_country[0].value,
         prize: submission.field_dataviz_prize[0].value,
         link: submission.field_dataviz_button[0].uri,
