@@ -25,7 +25,7 @@ export async function getSubmissions(): Promise<Submission[]> {
         [],
     )
 
-    return validatedData
+    return validatedData.sort((a, b) => a.title.localeCompare(b.title))
 }
 
 /**
