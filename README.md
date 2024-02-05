@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SPC Technical Assessment
 
-## Getting Started
-
-First, run the development server:
+This next.js app is for the SPC Full Stack Developer Technical Assessment. This README provides a high level guide so a reviewer cavigate the project easily. To install and run is the standard next.js prcess:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn install # or npm install
+yarn dev # or npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The app structure is the default Next.js Typescript app created via `npx create-next-app@latest` and selecting yes to Typescript and TailwindCSS.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Relevant Code
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The majority of authored code occurs in two files: `lib/getSubmissions.ts` and `app/page.tsx`.
 
-## Learn More
+### `lib/getSubmissions.ts`
 
-To learn more about Next.js, take a look at the following resources:
+This file contains the logic for fetching the submissions from the API. It uses the `fetch` API to make a GET request to the API endpoint. Additionally, we make use of the library `zod` to validate and transform the data from the API. This ensures that each sumbission has the data we need, reshapes it into something more usable, and provides typesafety for the data.
 
--   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
--   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### `app/page.tsx`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This files contains the React components for rendering the page. By default Next.js will render this using React server components. The data fetched from the API will be cached, and only refetched at most once per hour. Some other features to note:
+* `next/image` is used for automatic image optimisations
+* the design is responsive and will work on all screen sizes
+* icons are sourced from [Heroicons](https://heroicons.com/)

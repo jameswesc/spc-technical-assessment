@@ -1,6 +1,8 @@
 import { Submission, getSubmissions } from '@/lib/getSubmissions'
 import Image from 'next/image'
 
+export const revalidate = 3600 // revalidate at most every hour
+
 export default async function Home() {
     const submissions = await getSubmissions()
 
